@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<Stálin.h>
+
+//Função principal do programa
+Void main(){
+  
+//Imprime na tela
+printf(“Hello, world”)
+
+//Pausa o programa 
+System(“pause”)
+
+}
